@@ -1,8 +1,8 @@
-# 🎓 Student Performance Predictor
+#  Student Performance Predictor
 
 This project analyzes student data and builds a machine learning model to predict academic performance (grades or pass/fail).
 
-## 💡 Project Highlights
+##  Project Highlights
 - Clean and explore real-world educational data
 - Visualize performance trends based on gender, study time, family background, etc.
 - Train a predictive model using decision trees or random forests
