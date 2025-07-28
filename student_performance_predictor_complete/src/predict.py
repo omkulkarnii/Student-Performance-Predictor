@@ -2,9 +2,8 @@
 import pandas as pd
 import joblib
 
-model = joblib.load('src/model.pkl')  # model.pkl should be saved during training
+model = joblib.load('src/model.pkl') 
 
-# Sample input
 new_data = pd.DataFrame([{
     "study_time": 2,
     "failures": 0,
