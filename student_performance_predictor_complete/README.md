@@ -8,18 +8,18 @@ This project analyzes student data and builds a machine learning model to predic
 - Train a predictive model using decision trees or random forests
 - Evaluate model accuracy using metrics like accuracy and confusion matrix
 
-## 📁 Folder Structure
+##  Folder Structure
 - `data/`: Contains the raw student dataset (`student-mat.csv`)
 - `notebooks/`: Jupyter notebook with EDA and visualizations
 - `src/`: Modular Python scripts for preprocessing, training, and predicting
 
-## ⚙️ How to Run
+##  How to Run
 1. Install dependencies from `requirements.txt`
 2. Open `notebooks/student_eda.ipynb` to explore the data
 3. Use `src/train_model.py` to train the model
 4. Predict new data using `src/predict.py`
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 - Data cleaning, analysis, visualization
 - Feature engineering
 - Classification model building and evaluation
